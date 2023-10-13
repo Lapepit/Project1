@@ -1,0 +1,232 @@
+Google Classroom
+Classroom
+IAS-M1JV-DA-2 (23-24)
+Campus de Paris
+Accueil
+Agenda
+Inscrit
+À faire
+I
+IAS-M1JV-DA-2 (23-24)
+Campus de Paris
+Cours archivés
+Paramètres
+Flux
+Travaux et devoirs
+Personnes
+IAS-M1JV-DA-2 (23-24)
+Campus de Paris
+
+Meet
+À venir
+Génial, aucun devoir à remettre dans les jours qui viennent !
+
+Annoncez quelque chose à votre classe
+
+Post rédigé par Yaya DIAKITE
+Yaya DIAKITE
+Date de création : 15:2715:27
+Veuillez trouver les cours de GitHub
+
+Cours_1 .pdf
+PDF
+
+style.css
+Feuille de style
+
+hello.html
+HTML
+
+Ajouter un commentaire au cours…
+
+Support de cours : "Présentation de rentrée 23/24"
+Scolarité Paris a publié un nouveau support de cours : Présentation de rentrée 23/24
+Date de création : 13:0113:01
+Support de cours : "Support de cours Marketing Stratégique"
+Elisa AMIRI a publié un nouveau support de cours : Support de cours Marketing Stratégique
+Date de création : 12:1012:10
+Support de cours : "Exercice de Groupe IoT"
+Marc DEMERLÉ a publié un nouveau support de cours : Exercice de Groupe IoT
+Date de création : HierHier
+Support de cours : "Cours IoT 1 + vidéos"
+Marc DEMERLÉ a publié un nouveau support de cours : Cours IoT 1 + vidéos
+Date de création : HierHier (Modification : Hier)
+Support de cours : "Les dates clés 23/24"
+Scolarité Paris a publié un nouveau support de cours : Les dates clés 23/24
+Date de création : HierHier
+Support de cours : "🤝 Projet humanitaire : Challenge SoliTudiant !"
+Scolarité Paris a publié un nouveau support de cours : 🤝 Projet humanitaire : Challenge SoliTudiant !
+Date de création : HierHier
+
+Post rédigé par Fedoua BOUMAIZA
+Fedoua BOUMAIZA
+Date de création : 11 oct.11 oct.
+power bi
+
+1.3+Ventes+de+proprietes+NY.xlsx
+Excel
+
+Ajouter un commentaire au cours…
+
+
+Post rédigé par Boutaina ACHEAIBI
+Boutaina ACHEAIBI
+Date de création : 11 oct.11 oct.
+TP : Power PI
+
+1.4+PIB.xlsx
+Excel
+
+Ajouter un commentaire au cours…
+
+Support de cours : "Régression linéaire et non linéaire"
+Roger TELLIO a publié un nouveau support de cours : Régression linéaire et non linéaire
+Date de création : 9 oct.9 oct.
+Support de cours : "Fonctions log et exponentielles et régression non linéaire"
+Roger TELLIO a publié un nouveau support de cours : Fonctions log et exponentielles et régression non linéaire
+Date de création : 9 oct.9 oct.
+Support de cours : "📢 Le pôle pédagogique vous écoute "
+Scolarité Paris a publié un nouveau support de cours : 📢 Le pôle pédagogique vous écoute
+Date de création : 9 oct.9 oct.
+Support de cours : "Fin de la semaine d'uniformisation : c'est la rentrée !"
+Scolarité Paris a publié un nouveau support de cours : Fin de la semaine d'uniformisation : c'est la rentrée !
+Date de création : 6 oct.6 oct.
+
+Post rédigé par Yaya DIAKITE
+Yaya DIAKITE
+Date de création : 6 oct.6 oct.
+LE Corrigé du TP Programmation
+
+SB.py
+Texte
+
+Ajouter un commentaire au cours…
+
+
+Post rédigé par Yaya DIAKITE
+Yaya DIAKITE
+Date de création : 6 oct.6 oct.
+Les TPs pour la programmation
+
+Exercice calculatrice.pdf
+PDF
+
+journée_uniformisation.pdf
+PDF
+1 commentaire ajouté au cours
+
+BIENVENUE SIMEU8 oct.
+bonjour. Merci
+
+Ajouter un commentaire au cours…
+
+
+Post rédigé par Yaya DIAKITE
+Yaya DIAKITE
+Date de création : 5 oct.5 oct.
+Les bases de données pour le TP Python
+
+Exercices_Python_ML.pdf
+PDF
+
+fruits.txt
+Texte
+
+Ajouter un commentaire au cours…
+
+Support de cours : "🎯 🚴🏻‍♂️ Journée des associations ⚽ 🎮"
+Scolarité Paris a publié un nouveau support de cours : 🎯 🚴🏻‍♂️ Journée des associations ⚽ 🎮
+Date de création : 5 oct.5 oct. (Modification : 5 oct.)
+Support de cours : "Suite Séance IA GÉNÉRATIVE & RH"
+Sebastien MONCEAU a publié un nouveau support de cours : Suite Séance IA GÉNÉRATIVE & RH
+Date de création : 4 oct.4 oct.
+Support de cours : "Semaine livre"
+Sebastien MONCEAU a publié un nouveau support de cours : Semaine livre
+Date de création : 4 oct.4 oct.
+Support de cours : "EMPATHIE D G"
+Sebastien MONCEAU a publié un nouveau support de cours : EMPATHIE D G
+Date de création : 4 oct.4 oct.
+Flux
+#top-banner {
+  color : rgb(255,255,255);
+    font-size: 30px;
+
+  background-color: rgba(30,30,30,0.7);
+  overflow: auto;
+  text-align: center;
+}
+
+#top-banner-img{
+  float:right;
+}
+
+
+
+#menu {
+  width: 260px;
+  height: 100%;
+  border-right:1px solid #ccc;
+  font-family: "Lato";
+  font-weight: normal;
+  font-size: 18px;
+  min-height: 500px;
+  background-color: rgba(30,30,30,0.7);
+  box-shadow: 3px 0px 5px rgba(0,0,0,.3);
+  position:absolute;
+  overflow:auto;
+}
+
+#menu .menu-button {
+  padding:0.01em 16px 8px;
+  line-height: 45px;
+  z-index: 5;
+}
+
+
+#menu .menu-button > a {
+  background-color:rgba(97,97,97,1);
+  color:#fff;
+  box-shadow: 1px 1px 4px rgba(0,0,0,.2);
+  cursor: pointer;
+  padding:4px 2px 4px 16px;
+  display:block;
+  -webkit-transition:all 0.3s ease,color 0.15s ease;
+  transition:all 0.3s ease,color 0.15s ease;
+  text-decoration: none;
+}
+
+#menu .menu-button > a:hover {
+  color:#000!important;
+  background-color:#FFFFFF!important;
+  text-decoration: none;
+}
+
+.menu-button-icon {
+  width: 38px;
+  height: 38px;
+  margin: 0px 10px -12px -5px;
+}
+
+
+#top-banner, #menu {
+  border-color:#616161;
+}
+
+
+#toggle-menu-button:hover {
+  color:#757575;
+}
+
+#toggle-menu-button-label {
+  font-family: "Lato";
+  font-size: 14px;
+}
+
+#content {
+  margin-left: 300px;
+  margin-top: 40px;
+}
+
+
+style.css
+Affichage de style.csss
